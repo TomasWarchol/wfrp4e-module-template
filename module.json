@@ -1,0 +1,63 @@
+{
+  "id": "__MODULE_ID__",
+  "title": "WFRP4e – __MODULE_TITLE__",
+  "description": "__MODULE_DESCRIPTION__",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "Tomek (TomasWarchol)",
+      "url": "https://github.com/TomasWarchol",
+      "discord": "tomek"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "10.0.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/__MODULE_ID__.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pl",
+      "name": "Polski",
+      "path": "lang/pl.json"
+    }
+  ],
+  "flags": {
+    "hotReload": {
+      "extensions": [
+        "css",
+        "hbs",
+        "json"
+      ]
+    }
+  },
+  "url": "https://github.com/TomasWarchol/__MODULE_ID__",
+  "manifest": "https://github.com/TomasWarchol/__MODULE_ID__/releases/latest/download/module.json",
+  "download": "https://github.com/TomasWarchol/__MODULE_ID__/releases/latest/download/module.zip",
+  "bugs": "https://github.com/TomasWarchol/__MODULE_ID__/issues",
+  "readme": "https://github.com/TomasWarchol/__MODULE_ID__/blob/main/README.md",
+  "changelog": "https://github.com/TomasWarchol/__MODULE_ID__/blob/main/CHANGELOG.md",
+  "license": "https://github.com/TomasWarchol/__MODULE_ID__/blob/main/LICENSE"
+}
