@@ -39,3 +39,5 @@ npm run link    # link this folder into your local Foundry Data/modules
 ## 📄 License
 
 MIT – see [LICENSE](LICENSE).
+
+Unofficial fan content, not affiliated with or endorsed by Games Workshop or Cubicle 7. Warhammer and all related names are trademarks of Games Workshop Limited. The module ships no rulebook text or artwork; it works with the content you already own.

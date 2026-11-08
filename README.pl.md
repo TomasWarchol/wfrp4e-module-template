@@ -39,3 +39,5 @@ npm run link    # podłącza ten katalog do lokalnego Foundry (Data/modules)
 ## 📄 Licencja
 
 MIT – zobacz [LICENSE](LICENSE).
+
+Nieoficjalna twórczość fanowska, niezwiązana z Games Workshop ani Cubicle 7 i przez nie niepopierana. Warhammer i powiązane nazwy są znakami towarowymi Games Workshop Limited. Moduł nie zawiera tekstów ani grafik z podręczników – działa z treściami, które już posiadasz.
